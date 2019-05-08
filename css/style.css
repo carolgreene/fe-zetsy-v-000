@@ -54,3 +54,11 @@ header a {
 header a:hover {
   color: rgb(111,127,122)
 }
+
+#press a {
+  color: rgb(152,173,166)
+}
+
+#press a:hover {
+  color: rgb(111,127,122)
+}
