@@ -40,6 +40,11 @@ h2 {
   padding: 1px;
 }
 
+#press img:hover {
+  border: 5px solid rgb(111,127,122);
+  padding: 1px;
+}
+
 .small {
   font-size: 0.8em;
   color: #555;
@@ -52,13 +57,5 @@ header a {
 }
 
 header a:hover {
-  color: rgb(111,127,122)
-}
-
-#press img {
-  color: rgb(152,173,166)
-}
-
-#press img:hover {
   color: rgb(111,127,122)
 }
